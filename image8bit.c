@@ -184,7 +184,7 @@ void ImageDestroy(Image* imgp) { ///
   // Insert your code here!
 }
 
-
+//teste
 /// PGM file operations
 
 // See also:
